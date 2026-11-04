@@ -1,3 +1,4 @@
 @font-face{font-family:'Jost';font-style:normal;font-weight:100 900;src:url('fonts/Jost.ttf') format('truetype');}
 .izh-lang{position:fixed;top:8px;right:12px;z-index:2000;font:600 13px/1 'Jost',sans-serif;background:rgba(255,255,255,.85);padding:5px 9px;border-radius:4px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
 .izh-lang a{color:#888;text-decoration:none}.izh-lang a.active{color:#eb3e4a}.izh-lang span{color:#ccc;margin:0 4px}
+.gloss{color:#b3261e}
